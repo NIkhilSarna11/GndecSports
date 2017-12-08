@@ -121,7 +121,7 @@ public class RegistrationForm extends AppCompatActivity {
                         }
                         else
                         {
-                            Toast.makeText(RegistrationForm.this, "U are already here !!", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(RegistrationForm.this, "You have already registered", Toast.LENGTH_SHORT).show();
                         }
                     }
 

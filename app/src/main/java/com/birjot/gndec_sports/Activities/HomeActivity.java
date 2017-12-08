@@ -223,6 +223,11 @@ public class HomeActivity extends Progressdialog
                 fragment = new GraphFragment();
                /* Intent intent = new Intent(HomeActivity.this,Graphs.class);
                 startActivity(intent);*/
+            case R.id.nav_scholarships:
+                Intent intent6  = new Intent(HomeActivity.this , Scholarship.class) ;
+                startActivity(intent6);
+                Toast.makeText(this, "See Scholarships here!!", Toast.LENGTH_SHORT).show();
+
                 break;
 
 

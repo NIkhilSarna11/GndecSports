@@ -253,11 +253,14 @@
         <item>Discus Throw</item>
     </string-array>
     <string-array name="TrackEvents">
-    <item>--Select Track Event--</item>
-    <item>100m race</item>
-    <item>500mm race</item>
-    <item>1500m race</item>
-    <item>150000m race</item>
+        <item>--Select Track Event--</item>
+        <item>100m race</item>
+        <item>500mm race</item>
+        <item>1500m race</item>
+        <item>150000m race</item>
     </string-array>
+    <string name  = "s1" >
+        Principal S. Tara Singh scholarship of Rs 1000/- given by S. bhagwant Singh , M.D Spun Pipe Pvt limited ,Farridabad is awarded to the best athelete amongest boys , every year since 1967
+     </string>
 
 </resources>

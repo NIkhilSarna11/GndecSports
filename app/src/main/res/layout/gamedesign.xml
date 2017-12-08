@@ -39,7 +39,7 @@
             android:layout_marginLeft="2dp"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:layout_marginTop="-9dp" />
+            android:layout_marginStart="2dp" />
 
 
         <TextView
@@ -57,7 +57,7 @@
             android:layout_marginLeft="32dp"
             app:layout_constraintVertical_bias="0.492"
             android:paddingLeft="10dp"
-            />
+            android:layout_marginStart="32dp" />
 
 
 
