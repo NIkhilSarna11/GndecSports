@@ -253,11 +253,11 @@
         <item>Discus Throw</item>
     </string-array>
     <string-array name="TrackEvents">
-    <item>--Select Track Event--</item>
-    <item>100m race</item>
-    <item>500mm race</item>
-    <item>1500m race</item>
-    <item>150000m race</item>
+        <item>--Select Track Event--</item>
+        <item>100m race</item>
+        <item>500mm race</item>
+        <item>1500m race</item>
+        <item>150000m race</item>
     </string-array>
 
 </resources>
